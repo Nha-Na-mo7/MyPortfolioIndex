@@ -6,31 +6,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="863ae035-0310-403b-b22d-d863a97f899d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/sass/foundation/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/foundation/base.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/foundation/mixin.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/foundation/reset.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/layout/l-container.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/layout/l-footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/layout/l-header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/object/component/c-btn.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/object/component/c-checkbox.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/object/component/c-error.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/object/component/c-form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/object/component/c-loading.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/object/component/c-modal.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/object/component/c-paginate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/object/project/p-auth.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/object/project/p-error.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/object/project/p-footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/object/project/p-form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/object/project/p-header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/object/project/p-mypage.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/object/utility/u-color.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/object/utility/u-other.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/object/utility/u-space.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/my_portfolio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my_portfolio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +128,7 @@
       <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
       <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
       <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1mgU0rL5r04nczlghDZpyJEvHNW" />
@@ -173,7 +161,10 @@
       <workItem from="1609916647523" duration="88000" />
       <workItem from="1609916829790" duration="21000" />
       <workItem from="1609916871789" duration="2191000" />
-      <workItem from="1609919766850" duration="556000" />
+      <workItem from="1609919766850" duration="1318000" />
+      <workItem from="1609921186701" duration="95000" />
+      <workItem from="1609921333686" duration="147000" />
+      <workItem from="1609921512101" duration="4000" />
     </task>
     <servers />
   </component>
@@ -213,9 +204,9 @@
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state width="1422" height="253" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1609914650157" />
-    <state x="914" y="276" width="647" height="490" key="find.popup" timestamp="1609920319298">
+    <state x="1238" y="195" width="647" height="490" key="find.popup" timestamp="1609920369493">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="914" y="276" width="647" height="490" key="find.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1609920319298" />
+    <state x="1238" y="195" width="647" height="490" key="find.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1609920369493" />
   </component>
 </project>
