@@ -1,0 +1,36 @@
+// ==============
+//  c-checkbox
+// ==============
+.c-checkbox {
+  &__space {
+    margin-bottom: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    @include mq() {
+      padding: 0 20px;
+    }
+  }
+  &__item {
+    font-size: $font-size_l;
+    width: 25%;
+    height: 30px;
+    margin-bottom: 8px;
+    @include mq($breakpoint: md) {
+      width: 33%;
+      height: 25px;
+    }
+    @include mq() {
+      font-size: $font-size_m;
+      width: 49%;
+      height: 20px;
+    }
+    &--check {
+      margin-right: 2px;
+      transform: scale(1.5) translateY(-2.5px);
+    }
+  }
+  &__icon {
+    width: 1.6rem;
+    height: 1.6rem;
+  }
+}

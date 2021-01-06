@@ -6,8 +6,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="863ae035-0310-403b-b22d-d863a97f899d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/sass/foundation/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/foundation/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/foundation/mixin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/foundation/reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/layout/l-container.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/layout/l-footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/layout/l-header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/object/component/c-btn.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/object/component/c-checkbox.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/object/component/c-error.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/object/component/c-form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/object/component/c-loading.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/object/component/c-modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/object/component/c-paginate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/object/project/p-auth.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/object/project/p-error.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/object/project/p-footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/object/project/p-form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/object/project/p-header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/object/project/p-mypage.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/object/utility/u-color.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/object/utility/u-other.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/object/utility/u-space.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +172,8 @@
       <workItem from="1609914508291" duration="1643000" />
       <workItem from="1609916647523" duration="88000" />
       <workItem from="1609916829790" duration="21000" />
-      <workItem from="1609916871789" duration="1962000" />
+      <workItem from="1609916871789" duration="2191000" />
+      <workItem from="1609919766850" duration="556000" />
     </task>
     <servers />
   </component>
@@ -169,6 +193,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="976" y="275" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609920257620">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="976" y="275" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1609920257620" />
     <state width="1422" height="253" key="GridCell.Tab.0.bottom" timestamp="1609914650158">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
@@ -185,5 +213,9 @@
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state width="1422" height="253" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1609914650157" />
+    <state x="914" y="276" width="647" height="490" key="find.popup" timestamp="1609920319298">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="914" y="276" width="647" height="490" key="find.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1609920319298" />
   </component>
 </project>
